@@ -10,6 +10,7 @@ function dicePlayer(numIn, imgNum) {
 dicePlayer("Charge", ".img1");
 dicePlayer("Charge", ".img2");
 
+// Setting Randon Dice Numbers
 let randomNumber1 = randonNumber();
 let randomNumber2 = randonNumber();
 
